@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.env
+.env.example
+.git/
+.gitignore
+node_modules/
